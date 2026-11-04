@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**nerrygoulart15/nerrygoulart15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nerry Goulart 
 
-Here are some ideas to get you started:
+**Software Engineering Student | Aspiring Systems Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building systems. Breaking limits. Writing my own story.*
+
+### ⚔️ The Arsenal
+
+**Programming Languages**
+
+`C` · `C++` · `Java` · `Python` · `Rust` · `Go` · `Assembly`
+
+**Core Experience**
+
+`C` · `Java` · `Python`
+
+**Exploring Next**
+
+`C++` · `Rust` · `Go` · `Assembly`
+
+**Development Environment**
+
+`Linux` · `Git` · `VS Code`
+
+### 🧠 The Mindset
+
+`Think.` → `Code.` → `Debug.` → `Optimize.` → `Repeat.`
+
+### 🥀 Beyond the Terminal
+
+- 🎸 Guitarist | 🎹 Pianist | 🥁 Drummer
+- ⚽ Madridista — Hala Madrid! 🤍
+- 🎶 Classic Rock & Heavy Metal Enthusiast
+
+---
+
+*Discipline over motivation. Progress over perfection.*
