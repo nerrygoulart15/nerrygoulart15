@@ -1,39 +1,38 @@
 ## Hi there 👋
 
-# Nerry Goulart 
 
-**Software Engineering Student | Aspiring Systems Engineer**
+# Nerry Goulart ⚡
 
-*Building systems. Breaking limits. Writing my own story.*
+**Software Engineering Student | Cybersecurity Enthusiast**
+
+*Understanding systems. Exploring vulnerabilities. Building defenses.*
+
+---
 
 ### ⚔️ The Arsenal
 
-**Programming Languages**
+**💻 Programming Languages**
 
-`C` · `C++` · `Java` · `Python` · `Rust` · `Go` · `Assembly`
+`C` · `C++` · `Python` · `Java` · `Rust` · `Go` · `Assembly`
 
-**Core Experience**
+**🔐 Cybersecurity Interests**
 
-`C` · `Java` · `Python`
+`Ethical Hacking` · `Penetration Testing` · `Network Security` · `Reverse Engineering` · `Digital Forensics`
 
-**Exploring Next**
+**🛠️ Tools & Environment**
 
-`C++` · `Rust` · `Go` · `Assembly`
+`Linux` · `Git` · `Wireshark` · `VS Code`
 
-**Development Environment**
+### 🎯 Current Mission
 
-`Linux` · `Git` · `VS Code`
-
-### 🧠 The Mindset
-
-`Think.` → `Code.` → `Debug.` → `Optimize.` → `Repeat.`
+Exploring cybersecurity, strengthening my programming skills, and understanding how systems work from the inside out.
 
 ### 🥀 Beyond the Terminal
 
-- 🎸 Guitarist | 🎹 Pianist | 🥁 Drummer
+- 🎸 Guitarist · Pianist · Drummer
 - ⚽ Madridista — Hala Madrid! 🤍
 - 🎶 Classic Rock & Heavy Metal Enthusiast
 
 ---
 
-*Discipline over motivation. Progress over perfection.*
+*Think like an attacker. Build like a defender.*
