@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Nerry Goulart ⚡
+# Nerry Goulart 
 
 **Software Engineering Student | Cybersecurity Enthusiast**
 
